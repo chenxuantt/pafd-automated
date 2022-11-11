@@ -236,10 +236,10 @@ class Zlapp(Fudan):
             else:
                 self.last_info.update(
                     {
-                        "tw": "13",
-                        "province": province,
-                        "city": city,
-                        "area": " ".join((province, city, district)),
+                        #"tw": "13",
+                        #"province": province,
+                        #"city": city,
+                        #"area": " ".join((province, city, district)),
                         #"sfzx": "1",  # 是否在校
                         #"fxyy": "",  # 返校原因
                         "code": code,
